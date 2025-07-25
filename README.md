@@ -20,7 +20,7 @@ A simple and responsive currency converter built with **React** and **Vite**, us
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/anik4355/Currency-Converter.git
+git clone https://github.com/anik4355/Currency-Converter
 cd Currency-Converter
 npm install
 npm run dev
