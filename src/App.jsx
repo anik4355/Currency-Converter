@@ -2,7 +2,7 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
-import bgImg from "../pexels-tima-miroshnichenko-7567591.jpg";
+import bgImg from "../set-glowing-digital-currency-sign-background-with-circuit-lines_1017-52496.jpg";
 import useCurrencyInfo from "./Hooks/UseCurrencyInfo.js";
 import { InputBox } from "./Components/Index.js";
 
